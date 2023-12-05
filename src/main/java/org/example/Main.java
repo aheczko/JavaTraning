@@ -1,7 +1,7 @@
 package org.example;
 import Models.Actor;
 import Models.Movie;
-
+//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 token do gh
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
@@ -31,7 +31,6 @@ public class Main {
         Actor aktor1 = new Actor("Tom","Cruise");
         Actor aktor2 = new Actor("Sandra","Bulok");
         Actor aktor3 = new Actor("Edward","Gierek");
-        Actor aktor4 = new Actor("Edwaewewrd","Gierek");
         System.out.println(aktor1.getFirstName()+" "+aktor1.getLastName()+" "+ aktor1.getRating()+ " "+ aktor1.isOscarPriset());
         System.out.println(aktor2.getFirstName()+" "+aktor2.getLastName()+" "+ aktor2.getRating()+ " "+ aktor2.isOscarPriset());
         System.out.println(aktor3.getFirstName()+" "+aktor3.getLastName()+" "+ aktor3.getRating()+ " "+ aktor3.isOscarPriset());
